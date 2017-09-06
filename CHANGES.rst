@@ -1,3 +1,5 @@
+- updated the embedsub docs for call structure change
+
 1.3.5
 -----
 - Documentation-only updates corresponding to calwf3 3.4.1 release
